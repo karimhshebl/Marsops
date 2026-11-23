@@ -1,0 +1,11 @@
+package enums;
+
+public enum Equipment {
+    SOIL_ANALYZER,
+    WEATHER_SENSOR,
+    LABORATORY_APPARATUS,
+    LIFE_SUPPORT_UNIT,
+    POWER_GENERATOR,
+    COMMUNICATIONS_RELAY,
+    TRAUMA_KIT
+}
